@@ -1,6 +1,6 @@
 I'm a crazy JavaScript engineer, like algorithm, design pattern, front-end frameworks and data analysis.
 
-- Want to know what I learn every week? You can find them on [weekly](https://github.com/ascoders/weekly).
+- Want to know what I learned every week? You can find them on [weekly](https://github.com/ascoders/weekly).
 
 You can also read my articles in [zhihu](https://www.zhihu.com/people/huang-zi-yi-83), [juejin](https://juejin.cn/user/1556564164747437) or follow the WeChat official account of the weekly:
 
