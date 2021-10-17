@@ -1,4 +1,4 @@
-I'm a crazy JavaScript engineer, like algorithms, design patterns, front-end frameworks and data analysis.
+I'm a crazy JavaScript engineer, like algorithm, design pattern, front-end frameworks and data analysis.
 
 - Want to know what I learn every week? You can find them on [weekly](https://github.com/ascoders/weekly).
 
